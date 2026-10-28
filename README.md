@@ -28,8 +28,9 @@ It uses an optimized exception-handling pattern to bypass:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
-   cd file-searcher
+   git clone https://github.com/s4harX/File-searching-tool.git
+   cd File-searching-tool
+   python
    ```
 
 2. Run the script:
